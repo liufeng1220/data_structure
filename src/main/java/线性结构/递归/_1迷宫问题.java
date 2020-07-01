@@ -1,4 +1,4 @@
-package 线性表.递归;
+package 线性结构.递归;
 
 import org.testng.annotations.Test;
 

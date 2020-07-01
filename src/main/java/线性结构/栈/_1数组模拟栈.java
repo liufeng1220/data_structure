@@ -1,6 +1,4 @@
-package 线性表.栈;
-
-import org.testng.annotations.Test;
+package 线性结构.栈;
 
 import java.util.Scanner;
 

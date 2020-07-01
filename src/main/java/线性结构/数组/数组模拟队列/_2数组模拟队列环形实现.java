@@ -1,4 +1,4 @@
-package 线性表.数组.数组模拟队列;
+package 线性结构.数组.数组模拟队列;
 
 import java.util.Scanner;
 

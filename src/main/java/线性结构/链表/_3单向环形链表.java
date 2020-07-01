@@ -1,6 +1,5 @@
-package 线性表.链表;
+package 线性结构.链表;
 
-import lombok.Data;
 import org.testng.annotations.Test;
 
 /**

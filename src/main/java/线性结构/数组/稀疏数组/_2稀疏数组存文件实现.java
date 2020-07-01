@@ -1,7 +1,6 @@
-package 线性表.数组.稀疏数组;
+package 线性结构.数组.稀疏数组;
 
 import org.testng.annotations.Test;
-import org.yaml.snakeyaml.reader.StreamReader;
 
 import java.io.*;
 

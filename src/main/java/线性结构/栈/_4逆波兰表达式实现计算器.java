@@ -1,4 +1,4 @@
-package 线性表.栈;
+package 线性结构.栈;
 
 import java.util.ArrayList;
 import java.util.List;

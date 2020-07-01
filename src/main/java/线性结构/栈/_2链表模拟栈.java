@@ -1,4 +1,4 @@
-package 线性表.栈;
+package 线性结构.栈;
 
 public class _2链表模拟栈 {
     public static void main(String[] args) {
