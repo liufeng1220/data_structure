@@ -1,7 +1,6 @@
 package 线性表.链表;
 
-import lombok.Getter;
-import lombok.Setter;
+import lombok.Data;
 import org.testng.annotations.Test;
 
 /**
@@ -130,8 +129,7 @@ class CircleSingleLinkedList {
 /**
  * 创建一个Boy类，表示一个节点
  */
-@Getter
-@Setter
+
 class Boy {
     /**
      * 编号
@@ -146,5 +144,19 @@ class Boy {
         this.no = no;
     }
 
+    public int getNo() {
+        return no;
+    }
 
+    public void setNo(int no) {
+        this.no = no;
+    }
+
+    public Boy getNext() {
+        return next;
+    }
+
+    public void setNext(Boy next) {
+        this.next = next;
+    }
 }

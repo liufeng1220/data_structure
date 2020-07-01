@@ -2,6 +2,7 @@ package 查找算法;
 
 /**
  * 线性/顺序======查找算法实现
+ * 数列有序无序无所谓
  * Created by liufeng on 2020/6/30 15:14
  */
 public class _1线性_顺序查找算法实现 {
