@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
  * 二叉树的查找
  * Created by liufeng on 2020/7/5 10:46
  */
-public class BinaryTreeDemo {
+public class _1BinaryTreeDemo {
     //遍历二叉树
     @Test
     public void test1() {
